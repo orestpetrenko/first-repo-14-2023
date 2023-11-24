@@ -1,2 +1,2 @@
 # first-repo-14-2023
-first try to do repo
+my first repo in the 14 group
